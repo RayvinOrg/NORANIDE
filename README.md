@@ -39,7 +39,7 @@
 # 📦 نصب
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/amirdragon/NORANIDE/main/install.sh)
+coming soon 
 ```
 
 ---
@@ -68,7 +68,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/amirdragon/NORANIDE/main/insta
 
 **GitHub**
 
-https://github.com/Sepanta
+
 
 ---
 
@@ -78,7 +78,7 @@ https://github.com/Sepanta
 
 **وب‌سایت**
 
-https://SepantaPixel.com
+https://SepantaPixel.ir
 
 ---
 
